@@ -1,5 +1,1 @@
-ol
-<!---
-NATHAN20COME/NATHAN20COME is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ola meu nome e nathan eu sou otaku e gosto muito de programaçao
